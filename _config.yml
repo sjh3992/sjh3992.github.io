@@ -23,7 +23,7 @@ email: sjh3992@kookmin.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   이 홈페이지는 jekyll을 활용하여 만든 github pages 입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sjh3992.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
